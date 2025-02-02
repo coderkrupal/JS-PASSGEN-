@@ -21,7 +21,7 @@ A simple and user-friendly random password generator built with HTML, CSS, and J
 
 1. Clone this repository or download the files.
    ```bash
-   git clone https://github.com/Doshi-Krupal/random-password-generator.git
+   git clone https://github.com/coderkrupal/JS-PASSGEN-
    ```
 2. Open `index.html` in your preferred browser.
 3. Customize the options (length, character types) and click "Generate Password."
